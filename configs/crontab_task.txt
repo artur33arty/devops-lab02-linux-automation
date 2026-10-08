@@ -1,0 +1,1 @@
+* * * * * /home/runner/weather.sh Perm > /dev/null 2>&1
